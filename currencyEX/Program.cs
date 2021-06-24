@@ -159,8 +159,15 @@ namespace currencyEX
 
         static void Main()
         {
-
+            try
+            {
              GetExchangeRateFor();
+
+            }
+            catch(DivideByZeroException e)
+            {
+                Console.WriteLine(e.Message);
+            }
 
         }
 
