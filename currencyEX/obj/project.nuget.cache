@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iZctXm7DYABt2P1luMETB3e6O8Pp6E0foSnvVN+JikYRwWlDTJrF1jpTuc6Y9DqQ23obT+yJ3npJUngFJl8eAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\momoi\\source\\repos\\currencyEX\\currencyEX\\currencyEX.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\momoi\\.nuget\\packages\\htmlagilitypack\\1.11.34\\htmlagilitypack.1.11.34.nupkg.sha512"
+  ],
+  "logs": []
+}

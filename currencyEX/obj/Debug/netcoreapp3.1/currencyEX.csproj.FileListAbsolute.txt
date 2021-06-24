@@ -1,0 +1,15 @@
+C:\Users\momoi\source\repos\currencyEX\currencyEX\bin\Debug\netcoreapp3.1\currencyEX.exe
+C:\Users\momoi\source\repos\currencyEX\currencyEX\bin\Debug\netcoreapp3.1\currencyEX.deps.json
+C:\Users\momoi\source\repos\currencyEX\currencyEX\bin\Debug\netcoreapp3.1\currencyEX.runtimeconfig.json
+C:\Users\momoi\source\repos\currencyEX\currencyEX\bin\Debug\netcoreapp3.1\currencyEX.runtimeconfig.dev.json
+C:\Users\momoi\source\repos\currencyEX\currencyEX\bin\Debug\netcoreapp3.1\currencyEX.dll
+C:\Users\momoi\source\repos\currencyEX\currencyEX\bin\Debug\netcoreapp3.1\currencyEX.pdb
+C:\Users\momoi\source\repos\currencyEX\currencyEX\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\momoi\source\repos\currencyEX\currencyEX\obj\Debug\netcoreapp3.1\currencyEX.csproj.AssemblyReference.cache
+C:\Users\momoi\source\repos\currencyEX\currencyEX\obj\Debug\netcoreapp3.1\currencyEX.AssemblyInfoInputs.cache
+C:\Users\momoi\source\repos\currencyEX\currencyEX\obj\Debug\netcoreapp3.1\currencyEX.AssemblyInfo.cs
+C:\Users\momoi\source\repos\currencyEX\currencyEX\obj\Debug\netcoreapp3.1\currencyEX.csproj.CoreCompileInputs.cache
+C:\Users\momoi\source\repos\currencyEX\currencyEX\obj\Debug\netcoreapp3.1\currencyEX.csproj.CopyComplete
+C:\Users\momoi\source\repos\currencyEX\currencyEX\obj\Debug\netcoreapp3.1\currencyEX.dll
+C:\Users\momoi\source\repos\currencyEX\currencyEX\obj\Debug\netcoreapp3.1\currencyEX.pdb
+C:\Users\momoi\source\repos\currencyEX\currencyEX\obj\Debug\netcoreapp3.1\currencyEX.genruntimeconfig.cache
